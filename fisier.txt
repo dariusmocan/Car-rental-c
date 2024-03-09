@@ -1,0 +1,25 @@
+
+BMW
+Seria 7
+3
+0
+
+Audi
+A7
+2
+0
+
+Dacia
+Duster
+2
+1
+
+Audi
+A4
+1
+1
+
+BMW
+Seria1
+1
+0
